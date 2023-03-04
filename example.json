@@ -1,6 +1,6 @@
 {
     "title": "StoryDemo",
-    "url": "http://127.0.0.1:5500/example.json",
+    "url": "https://nattyan-tv.github.io/webnovel/example.json",
     "option": {
         "window": "./window.png"
     },
