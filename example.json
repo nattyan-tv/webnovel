@@ -1,0 +1,12 @@
+{
+    "title": "StoryDemo",
+    "url": "http://127.0.0.1:5500/example.json",
+    "option": {
+        "window": "./window.png"
+    },
+    "story": [
+        ["chara2", "say"],
+        ["chara1", "おはようございます！最近どう？"],
+        ["chara2", "俺は調子いいよ！"]
+    ]
+}
