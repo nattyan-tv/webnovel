@@ -15,7 +15,7 @@ class WebNovel {
                     throw new Error("Failed to load story file. (data is null)");
                 }
                 if (url !== data.url) {
-                    throw new Error("Security Exception: URL is not same.");
+                    console.warn("Security Warning: URL is not same.");
                 }
                 this.storydata = data;
                 this.page = 0;
